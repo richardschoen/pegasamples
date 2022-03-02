@@ -2,7 +2,7 @@
 // Activity: MSWordProtect1
 // Desc: Add a password to an unprotected MS Word document. (docx format only)
 // Activity Parms:
-// WordFileName = Word docx dile name to protect
+// WordFileName = Word docx file name to protect
 // Password = Password to add to Word file
 // PageName = Clipboard page name to generate to hold results
 //
