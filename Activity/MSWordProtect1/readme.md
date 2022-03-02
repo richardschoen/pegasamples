@@ -1,4 +1,7 @@
-# Instructions for setting up activity MSWordProtect1
+# Activity/MSWordProtect1
+This activity can be called to password protect a MS Word document in docx format.
+
+## Instructions for setting up activity MSWordProtect1
 
 ## Creating the Activity
 Create a new activity and add the following parameters:
