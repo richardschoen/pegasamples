@@ -12,7 +12,7 @@ Create a new activity and add the following parameters:
 
 **PageName** = Clipboard page name to generate to hold results (String)
 
-## Add steps
+## Add activity steps
 
 **Step 1  - Page-Remove for Param.Pagename**
 
