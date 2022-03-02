@@ -39,5 +39,9 @@ This is a list of files for the activity definition and testing.
 
 **WordDocIn.docx** - Sample Word docx document file. 
 
+## Notes
+
+You will need to make sure you have read/write access to the file system from within your Pega instance so you can modify the Word document that you create from Pega or upload for password protection. 
+
 
 
