@@ -26,6 +26,12 @@ https://welearnpega.blogspot.com
 HowToPega Blog Site\
 https://www.howtopega.info
 
+Pega For Engineers
+https://www.pegaforengineers.com/blog
+
+Home Brew Blog
+http://pegablog.com/pega.asp
+
 Pega OOTB\
 https://pegaadvanced.tech.blog/category/blogs
 
@@ -37,3 +43,6 @@ https://blogs.perficient.com/tag/pega
 
 Top 10 Pega Blogs\
 https://blog.feedspot.com/pega_blogs
+
+Get Started with Robotic Process Automation - Pega\
+https://blogs.perficient.com/2017/04/04/getting-started-with-robotic-automation-using-pega
