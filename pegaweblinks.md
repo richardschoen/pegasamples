@@ -14,6 +14,12 @@ https://www.pega.com/blog
 MyKnowPega - Pega Knowledge Sharing\
 https://myknowpega.com
 
+OneStopPega\
+https://onestoppega.com
+
+OneStopPega Useful Resources\
+https://onestoppega.com/useful-resources/
+
 We Learn Pega Blog/Videos\
 https://welearnpega.blogspot.com
 
