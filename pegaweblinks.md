@@ -14,6 +14,9 @@ https://www.pega.com/blog
 MyKnowPega - Pega Knowledge Sharing\
 https://myknowpega.com
 
+We Learn Pega Blog/Videos\
+https://welearnpega.blogspot.com
+
 HowToPega Blog Site\
 https://www.howtopega.info
 
