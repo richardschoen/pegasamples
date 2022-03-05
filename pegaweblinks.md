@@ -8,10 +8,23 @@ https://www.google.com/search?q=pega+blog+sites
 PegaDevTools Github Site\
 https://github.com/marcin-l/PegaDevTools
 
+Pega Official Blog Site\
+https://www.pega.com/blog
+
 MyKnowPega - Pega Knowledge Sharing\
 https://myknowpega.com
 
 HowToPega Blog Site\
 https://www.howtopega.info
 
+Pega OOTB\
+https://pegaadvanced.tech.blog/category/blogs
 
+Owler - Pega News\
+https://www.owler.com/news/pega
+
+Perficient Pega\
+https://blogs.perficient.com/tag/pega
+
+Top 10 Pega Blogs\
+https://blog.feedspot.com/pega_blogs
