@@ -18,7 +18,7 @@ Create a new activity and add the following parameters:
 
 This removes the Clipboard work page if it exists
 
-**Step 2 - Add teh MSWordprotect1.java file to a new Java step**
+**Step 2 - Add the MSWordprotect1.java file to a new Java step**
 
 This code does all the work to open the Word document, set the password and re-save the Word document.
 
